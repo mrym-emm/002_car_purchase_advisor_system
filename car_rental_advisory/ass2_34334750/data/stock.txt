@@ -1,0 +1,3 @@
+1140273, Albert Camus, Shah Alam 40150, (11.0, 20.0),['OW653693,Proton X70,5,130, 1635, AWD', 'KF631657,Mercedes-Benz SLC,2,140, 1075, RWD', 'AI757482,Ford Mustang GT,4,343, 1300, RWD', 'YL819903,Toyota Hilux,5,150, 1860, AWD']
+1252720, Haruki Murakami, Petaling Jaya 46050, (9.0, 15.5),['YF699402,Subaru Forester,5,155, 1532, AWD', 'IG725223,Proton Saga,5,69, 1035, FWD', 'CE551378,Kia Picanto,5,50, 860, FWD', 'FD915999,Perodua Bezza,5,70, 940, FWD']
+7890827, Leo Tolstoy, Bamboo Hills 51200, (14.0, 18.0),['KF631657,Ford Fiesta,5,92, 1217, FWD', 'OW653693,Proton X70,5,130, 1635, AWD', 'CE551378,Kia Picanto,5,50, 860, FWD', 'FD915999,Mazda MX-5,2,135, 1030, RWD']
