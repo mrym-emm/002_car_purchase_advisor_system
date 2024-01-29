@@ -1,3 +1,0 @@
-4886075, Albert Camus, Shah Alam 40150, (11.0, 20.0),['SH828788,Proton X70,5,130, 1635, AWD', 'AJ860545,Toyota Hilux,5,150, 1860, AWD', 'KB700116,Kia Picanto,5,50, 860, FWD', 'RE196417,Toyota Avanza,7,80, 1155, RWD']
-6104411, Haruki Murakami, Petaling Jaya 46050, (9.0, 15.5),['EO249286,Ford Fiesta,5,92, 1217, FWD', 'RE196417,Toyota Avanza,7,80, 1155, RWD', 'GE565731,Mercedes-Benz SLC,2,140, 1075, RWD', 'DB228099,Ford Mustang GT,4,343, 1300, RWD']
-4543404, Leo Tolstoy, Bamboo Hills 51200, (14.0, 18.0),['OD674351,Perodua Bezza,5,70, 940, FWD', 'ND829575,Mazda MX-5,2,135, 1030, RWD', 'AJ860545,Toyota Hilux,5,150, 1860, AWD', 'KB700116,Kia Picanto,5,50, 860, FWD']
